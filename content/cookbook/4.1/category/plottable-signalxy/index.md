@@ -92,7 +92,7 @@ plt.SaveFig("signalxy_gaps.png");
 
 ## Different Densities
 
-Signal with mised low and high density data
+Signal with mixed low and high density data
 
 ```cs
 var plt = new ScottPlot.Plot(600, 400);
